@@ -40,6 +40,6 @@ steps:
     feedsToUse: 'select'
     vstsFeed: "my-project/my-project-scoped-feed"
     includeNuGetOrg: false
-    restoreSolution: '**/*.sln'
+
 
 
