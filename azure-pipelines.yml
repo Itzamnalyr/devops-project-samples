@@ -41,5 +41,3 @@ steps:
     vstsFeed: "my-project/my-project-scoped-feed"
     includeNuGetOrg: false
 
-
-
